@@ -584,7 +584,10 @@
 /* console */
 
     .wc-console {
-        border: 5px solid $c_chrome;
+        border-top: 2px solid $c_chrome;
+        border-left: 0;
+        border-right: 0;
+        border-bottom: 0;
         bottom: 0;
         box-sizing: border-box;
         height: $consoleHeight;
