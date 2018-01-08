@@ -176,7 +176,7 @@
         left: 0;
         top: 0;
         bottom: 0;
-        box-shadow: 1px 3px 3px 2px $c_shadow;
+        box-shadow: 4px 4px 10px 0px $c_shadow, -4px -4px 10px 0px $c_shadow;
     }
 
 /* messages */
@@ -598,14 +598,11 @@
 
         > .wc-upload,
         > .wc-textbox,
+        > .wc-send,
         > .wc-mic {
             position: absolute;
             top: 0;
             vertical-align: middle;
-        }
-
-        > .wc-send {
-            display: none;
         }
 
         label, button {

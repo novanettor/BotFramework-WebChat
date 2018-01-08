@@ -52,19 +52,19 @@
   "actions": {
     "maxActions": 100,
     "separation": {
-      "spacing": 8
+      "spacing": 4
     },
-    "buttonSpacing": 8,
+    "buttonSpacing": 4,
     "stretch": false,
     "showCard": {
       "actionMode": "inlineEdgeToEdge",
       "inlineTopMargin": 16,
       "backgroundColor": "#00000000",
       "padding": {
-        "top": 4,
-        "right": 4,
-        "bottom": 4,
-        "left": 4
+        "top": 2,
+        "right": 2,
+        "bottom": 2,
+        "left": 2
       }
     },
     "actionsOrientation": "vertical",
@@ -73,10 +73,10 @@
   "adaptiveCard": {
     "backgroundColor": "#00000000",
     "padding": {
-      "left": 8,
-      "top": 8,
-      "right": 8,
-      "bottom": 8
+      "left": 4,
+      "top": 4,
+      "right": 4,
+      "bottom": 4
     }
   },
   "container": {
@@ -96,10 +96,10 @@
         "left": 1
       },
       "padding": {
-        "top": 8,
-        "right": 8,
-        "bottom": 8,
-        "left": 8
+        "top": 4,
+        "right": 4,
+        "bottom": 4,
+        "left": 4
       }
     }
   },
@@ -107,26 +107,26 @@
     "color": "dark",
     "separations": {
       "small": {
-        "spacing": 8
+        "spacing": 4
       },
       "normal": {
-        "spacing": 8
+        "spacing": 4
       },
       "medium": {
-        "spacing": 8
+        "spacing": 4
       },
       "large": {
-        "spacing": 8
+        "spacing": 4
       },
       "extraLarge": {
-        "spacing": 8
+        "spacing": 4
       }
     }
   },
   "image": {
     "size": "medium",
     "separation": {
-      "spacing": 8
+      "spacing": 4
     }
   },
   "imageSet": {
